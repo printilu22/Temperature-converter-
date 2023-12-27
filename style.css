@@ -1,0 +1,23 @@
+body {
+        font-family: Arial, sans-serif;
+        text-align: center;
+        margin: 50px;
+}
+
+label {
+    font-weight: bold;
+}
+
+input {
+        padding: 5px;
+        margin: 10px 0;
+}
+
+button {
+        padding: 8px;
+        cursor: pointer;
+}
+
+#result {
+        margin-top: 20px;
+}
